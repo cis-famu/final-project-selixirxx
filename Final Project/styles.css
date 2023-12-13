@@ -1,0 +1,173 @@
+.mainhtext {
+    position: absolute; 
+    top: 8px; 
+    left: 128px; 
+    font-family: Lexend;
+    font-size: 30px; 
+    font-weight: 700; 
+    line-height: 46px; 
+    color: #171A1FFF;
+  }
+
+ .right-align {
+    text-align: right;
+ }
+
+ .centeralign {
+    text-align: center;
+ }
+
+ .leftalign {
+    text-align: left;
+ }
+
+  .greetinghome {
+    position: absolute; 
+    top: 321px; 
+    left: 128px; 
+    width: 438px; 
+    font-family: Lexend;
+    font-size: 52px; 
+    font-weight: 700; 
+    line-height: 74px; 
+    color: #323743FF;
+  }
+
+  .homep {
+    position: absolute; 
+    top: 469px; 
+    left: 128px; 
+    width: 438px; 
+    height: 180px; 
+    font-family: Lexend;
+    font-size: 20px; 
+    font-weight: 400; 
+    line-height: 30px; 
+    color: #323743FF;
+  }
+
+  .main-pgimg {
+    top: 98px; 
+    left: 822px;
+    width: 550px;
+    height: auto;
+    border-radius: 0px 0px 50px 50px;
+  }
+
+  .htext {
+    font-family: Lexend;
+    font-size: 52px; 
+    font-weight: 700; 
+    line-height: 74px; 
+    color: #323743FF;
+  }
+
+  .hmargin {
+    margin-top: 150px;
+    margin-left: 50px;
+  }
+
+  .ptext{
+    font-family: Manrope;
+    font-size: 20px; 
+    font-weight: 400; 
+    line-height: 30px; 
+    color: #323743FF;
+  }
+
+  .container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+  
+}
+
+.bluecontainer {
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #CCEBFFFF;
+}
+
+.imgmargin {
+    margin-top: 35px;
+}
+
+.imgsize {
+    width: 550px;
+    height: auto;
+}
+
+.vidcontainer {
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+    background: #CCEBFFFF;
+    display: flex;
+    flex: 1;
+}
+
+.vidtext {
+    margin: 100px 100px 100px 300px;
+}
+
+.home {
+    font-family: Lexend;
+    font-size: 52px; 
+    font-weight: 700; 
+    line-height: 74px; 
+    color: #323743FF;
+  }
+
+  .audiopad{
+    margin: 50px;
+  }
+
+  .imgborder {
+    border: 25px solid rgb(4, 82, 0);
+    margin: 20px;
+  }
+
+  .txtmargin {
+    margin: 60px;
+  }
+
+  /*contact page css*/
+
+  .line {
+    margin: 350px 350px 350px 350px;
+    border-width: 1px; 
+    border-color: #BDC1CAFF; /* neutral-400 */
+    border-style: solid; 
+    transform: rotate(90deg);
+    width: 500px;
+    height: auto;
+    display: flex;
+  }
+  
+  .ctext {
+    position: absolute; 
+    top: 132px; 
+    left: 132px; 
+    font-family: Lexend; 
+    font-size: 62px; 
+    font-weight: 400; 
+    line-height: 82px; 
+    color: #171A1FFF; 
+  }
+
+  .socialgroup {
+    position: absolute; 
+    top: 229px; 
+    left: 142px; 
+    width: 266px; 
+    height: 122px; 
+  }
+
+  .csimage { 
+    width: 600px; 
+    height: auto;
+    position: absolute; 
+  top: 409px; 
+  left: 132px; 
+  }
